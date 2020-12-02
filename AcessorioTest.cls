@@ -27,7 +27,7 @@
 
     Test.stopTest();
   }
-  
+  public void metodo2teste(){}
   private string MetodoAux1(){
 	return 'aux1';
   }

@@ -61,6 +61,7 @@ public class AccountBO {
             System.enqueueJob(new QueueBO(nextQueues));
         }
     }
+	public void metodo2(){}
 
 	private string metodo1(){
 		return 'alteração metodo1';
