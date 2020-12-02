@@ -27,4 +27,8 @@
 
     Test.stopTest();
   }
+  
+  private string MetodoAux1(){
+	return 'aux1';
+  }
 }
