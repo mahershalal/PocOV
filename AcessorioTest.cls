@@ -27,4 +27,5 @@
 
     Test.stopTest();
   }
+  public void metodo2teste(){}
 }

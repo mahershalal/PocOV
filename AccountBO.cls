@@ -61,4 +61,5 @@ public class AccountBO {
             System.enqueueJob(new QueueBO(nextQueues));
         }
     }
+	public void metodo2(){}
 }
