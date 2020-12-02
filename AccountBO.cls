@@ -65,4 +65,8 @@ public class AccountBO {
 	private string metodo1(){
 		return 'alteração metodo1';
 	}
+	
+	private string metodo2(){
+		return 'alteração metodo1';
+	}
 }
