@@ -144,7 +144,7 @@ public with sharing class AnyEventCalCtrl
             this.status = status;
             this.owner = proprietario;
             this.LinkId = linkId;
-            this.eventType = eventType;
+            this.eventType = eventType;    
         }
         
     }
