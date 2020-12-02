@@ -61,4 +61,8 @@ public class AccountBO {
             System.enqueueJob(new QueueBO(nextQueues));
         }
     }
+
+	private string metodo1(){
+		return 'metodo1';
+	}
 }
